@@ -9,4 +9,13 @@ Installing Flink based on K8s
 
 Flink learning materials
 
+## Checkpoint
+
+`docker-compose up -d`
+
+install zk and kafka
+
+run `kafkaUitl.java`
+
+run `checkpoint.java`
 
